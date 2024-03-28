@@ -1,0 +1,18 @@
+{
+    "name": "admin/admin",
+    "description": "reboot",
+    "autoload": {
+        "psr-4": {
+            "Admin\\Admin\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Siil777",
+            "email": "pavel.ivanov.thk@gmail.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.9"
+    }
+}
