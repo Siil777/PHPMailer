@@ -1,0 +1,6 @@
+# Ignore Composer vendor directory
+/vendor/
+
+# Ignore PHPMailer autoload files
+/vendor/phpmailer/phpmailer/src/PHPMailer.php
+/vendor/phpmailer/phpmailer/src/Exception.php
