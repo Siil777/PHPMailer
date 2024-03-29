@@ -1,8 +1,8 @@
 <?php
 $servernimi = "localhost";
-$kasutajanimi = "pavelivanov";
-$parool = "admin123";
-$andmebaas = "reset-password";
+$kasutajanimi = "*****";
+$parool = "*****";
+$andmebaas = "*****";
 $mysqli = new mysqli($servernimi, $kasutajanimi, $parool, $andmebaas);
 // Check connection
 if ($mysqli->connect_error) {
